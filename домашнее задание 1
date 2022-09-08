@@ -1,0 +1,19 @@
+#include <locale.h>
+#include <stdio.h>
+void name()
+{
+	puts("      ____                         ");
+	puts("  ___|    |___                     ");
+	puts(" |____________|      ________      ");
+	puts("  |   ____   |    __| |____| |___  ");
+	puts("  |   |__|   |   |_/\_______/\___| ");
+	puts("  |__________|     \/       \/     ");
+
+
+}
+void main()
+{
+	setlocale(LC_ALL, "RUS");
+	name();
+	puts("Hello World!");
+}
