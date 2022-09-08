@@ -1,0 +1,14 @@
+﻿"Project11.exe" (Win32). Загружено "C:\Users\Eugene\source\repos\Project11\x64\Debug\Project11.exe". Символы загружены.
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-localization-l1-2-0.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-processthreads-l1-1-1.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-file-l1-2-0.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-timezone-l1-1-0.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-file-l2-1-0.dll". 
+"Project11.exe" (Win32). Загружено "C:\Windows\System32\api-ms-win-core-synch-l1-2-0.dll". 
+Поток 0x1e80 завершился с кодом 0 (0x0).
+Программа "[6656] Project11.exe" завершилась с кодом 0 (0x0).
